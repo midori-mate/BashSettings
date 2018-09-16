@@ -1,0 +1,5 @@
+
+BashSettings
+===
+
+My bash settings.
